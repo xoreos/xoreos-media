@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="42.330002"
+   height="42.327999"
+   id="xoreosIconGrey"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icon-grey.svg">
+  <title
+     id="title">xoreos Icon</title>
+  <defs
+     id="defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.8880766"
+     inkscape:cx="45.19313"
+     inkscape:cy="31.657347"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="5"
+     inkscape:window-width="1272"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>xoreos Icon</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:date>2013-08-06</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sven Hesse (DrMcCoy)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Alex Bevilacqua</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>The letter &quot;x&quot; rendered in the Rezland font in dark grey on a light grey background.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.7142859,-2.891326)">
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:none"
+       id="background"
+       width="42.330002"
+       height="42.330002"
+       x="0.71428591"
+       y="2.8893232" />
+    <path
+       style="fill:#282828;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       id="x"
+       d="m 34.874286,14.299326 c -1.344028,2.6e-5 -2.616027,0.264026 -3.816,0.792 -1.200024,0.480025 -2.256023,1.176024 -3.168,2.088 -0.864021,0.864022 -1.560021,1.896021 -2.088,3.096 -0.48002,1.152019 -0.72002,2.400018 -0.72,3.744 -2e-5,1.344015 0.23998,2.616014 0.72,3.816 0.527979,1.200011 1.223979,2.25601 2.088,3.168 0.911977,0.864008 1.967976,1.560008 3.168,2.088 1.199973,0.480007 2.471972,0.720006 3.816,0.72 l 3.168,0 0,6.408 -3.168,0 c -2.688027,0 -5.160024,-0.575999 -7.416,-1.728 -2.20802,-1.199997 -4.056018,-2.807995 -5.544,-4.824 -1.488015,2.016005 -3.360013,3.624003 -5.616,4.824 -2.256008,1.152001 -4.704006,1.728 -7.3440001,1.728 l -3.24,0 0,-6.408 3.24,0 c 1.3439951,6e-6 2.5919941,-0.239993 3.7440001,-0.72 1.199992,-0.527992 2.231991,-1.223992 3.096,-2.088 0.911989,-0.91199 1.607988,-1.967989 2.088,-3.168 0.527987,-1.199986 0.791987,-2.471985 0.792,-3.816 -1.3e-5,-1.343982 -0.264013,-2.591981 -0.792,-3.744 -0.480012,-1.199979 -1.176011,-2.231978 -2.088,-3.096 -0.864009,-0.911976 -1.896008,-1.607975 -3.096,-2.088 -1.152006,-0.527974 -2.400005,-0.791974 -3.7440001,-0.792 l -3.24,0 0,-6.408 3.24,0 c 2.6399941,3.23e-5 5.0879921,0.6000317 7.3440001,1.8 2.255987,1.152029 4.127985,2.736028 5.616,4.752 1.487982,-2.015972 3.33598,-3.599971 5.544,-4.752 2.255976,-1.1999683 4.727973,-1.7999677 7.416,-1.8 l 3.168,0 0,6.408 -3.168,0 0,0" />
+  </g>
+</svg>
