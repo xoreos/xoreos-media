@@ -8,7 +8,10 @@ Directories of note:
 
 * fonts/
 
-  Fonts used by xoreos. Currently contains the Rezland font by [Fraser Davidson](http://fraserdavidson.co.uk/), released as freeware.
+  Fonts used by xoreos.
+
+  - The Rezland font by [Fraser Davidson](http://fraserdavidson.co.uk/), released as freeware. Used in the xoreos logo and icon
+  - [DejaVu](http://dejavu-fonts.org/) Sans Mono Bold, based on the [Vera Fonts](http://gnome.org/fonts/), distributed under the [Bitstream Vera Fonts license](http://dejavu-fonts.org/wiki/License). Used as monospaced system font in xoreos.
 
 * logos/
 
