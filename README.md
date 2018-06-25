@@ -35,7 +35,8 @@ Directories of note:
 
 * icons/
 
-  Icons based on the xoreos logo: an "x" rendered in the Rezland font.
+  Icons based on the xoreos and Phaethon logo: an "x" and a "P", respectively,
+  rendered in the Rezland font.
 
   Licensed under the terms of the [Creative Commons Attribution-ShareAlike
   3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).

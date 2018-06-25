@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55.287998"
+   height="55.287998"
+   id="xoreosIconGrey"
+   version="1.1"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="phaethon-icon-transparent.svg">
+  <title
+     id="title">xoreos Icon</title>
+  <defs
+     id="defs" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.141281"
+     inkscape:cx="21.152515"
+     inkscape:cy="37.235262"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     inkscape:window-width="1272"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:measure-start="5,30.92"
+     inkscape:measure-end="0.162832,30.7753" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>xoreos Icon</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:date>2013-08-06</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sven Hesse (DrMcCoy)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Alex Bevilacqua</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>The letter &quot;x&quot; rendered in the Rezland font in dark grey on a light grey background.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.71428591,10.068677)">
+    <g
+       aria-label="p"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:25px;font-family:REZ;-inkscape-font-specification:'REZ, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text817">
+      <path
+         d="m 28.322285,-5.0686774 q 3.384,0 6.264,1.296 2.952,1.224 5.184,3.45600002 2.232,2.15999998 3.456,5.11199998 1.296,2.88 1.296,6.2640004 0,3.312 -1.296,6.264 -1.224,2.952 -3.456,5.184 -2.232,2.232 -5.184,3.528 -2.88,1.224 -6.264,1.224 h -9.72 v 12.96 h -6.408 v -29.16 q 0,-3.3840004 1.224,-6.2640004 1.296,-2.952 3.456,-5.11199998 2.232,-2.23200002 5.184,-3.45600002 2.952,-1.296 6.264,-1.296 z m 0,25.9200004 q 2.016,0 3.816,-0.72 1.8,-0.792 3.096,-2.088 1.368,-1.368 2.088,-3.168 0.792,-1.8 0.792,-3.816 0,-2.0160004 -0.792,-3.7440004 -0.72,-1.8 -2.088,-3.096 -1.296,-1.368 -3.096,-2.088 -1.8,-0.792 -3.816,-0.792 -2.016,0 -3.816,0.792 -1.728,0.72 -3.096,2.088 -1.296,1.296 -2.088,3.096 -0.72,1.728 -0.72,3.7440004 v 9.792 h 9.72 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;font-family:REZ;-inkscape-font-specification:'REZ, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1"
+         id="path838" />
+    </g>
+  </g>
+</svg>
