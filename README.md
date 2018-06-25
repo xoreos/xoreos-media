@@ -27,6 +27,9 @@ Directories of note:
   Thanks to [Alex Bevilacqua](https://github.com/alexbevi) for the
   idea and initial design.
 
+  The Phaethon logo: the word "Phaethon rendered in the Rezland font,
+  based on the xoreos logo.
+
   Licensed under the terms of the [Creative Commons Attribution-ShareAlike
   3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
 
